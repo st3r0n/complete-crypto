@@ -8,4 +8,4 @@
 1. if you have prublic key u can use openssl to calculate n and e  or you can directly feed the public key to get private key then use it to decode
 2. if you have int use factordb
 3. always remember the cipher text must be first from base64 then decryption should be allowed
-4. 
+4. various attacks can be done on rsa base on the value of m e and n
