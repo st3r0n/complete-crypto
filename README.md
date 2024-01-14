@@ -16,7 +16,7 @@ one time pad cipher
 1.rail fence cipher
 2.row-column cipher
 
-### types of cipher based on encryption:
+### Types of cipher based on encryption:
 1. stream cipher          
 2. block cipher            
 
@@ -26,4 +26,5 @@ one time pad cipher
 3. CFB ---> cipher feedback
 4. OFB ----> output feed back
 5. CTR  ----> counter mode
+
 
