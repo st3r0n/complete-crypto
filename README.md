@@ -9,10 +9,21 @@
 2.mono-alphabetic
 3.playfair
 4.hill cipher
-polyalphabetic ----> vigner and vernam ciphers
+,polyalphabetic ----> vigner and vernam ciphers
 one time pad cipher 
 
 #### transposition cipher
 1.rail fence cipher
 2.row-column cipher
+
+### types of cipher based on encryption:
+1. stream cipher          
+2. block cipher            
+
+#### modes of opearations :
+1.ECB ---> electronic code book
+2. CBC ---> cipher block chaining
+3. CFB ---> cipher feedback
+4. OFB ----> output feed back
+5. CTR  ----> counter mode
 
